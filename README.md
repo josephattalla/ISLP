@@ -4,7 +4,7 @@ This repository contains my solutions to the applied exercises from chapters 8-1
 
 ## Table of Contents
 
-- [Chapter 8: Tree-Based Methods](#chapter-8-tree-based-models)
+- [Chapter 8: Tree-Based Methods](#chapter-8-tree-based-methods)
 - [Chapter 9: Support Vector Machines](#chapter-9-support-vector-machines)
 - [Chapter 10: Deep Learning](#chapter-10-deep-learning)
 - [Chapter 11: Survival Analysis and Censored Data](#chapter-11-survival-analysis-and-censored-data)
@@ -13,7 +13,7 @@ This repository contains my solutions to the applied exercises from chapters 8-1
 
 ## Chapter 8: Tree-Based Methods
 
-### [8_tree_based_methods](8_tree_based_methods/)
+### [8_tree_based_methods](8_tree_based_models/)
 **Description**: This chapter covers decision trees, bagging, random forests, and boosting. The exercises involve implementing and evaluating these methods using Python.
 
 **Key Topics**:
