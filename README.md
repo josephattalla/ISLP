@@ -4,7 +4,7 @@ This repository contains my solutions to the applied exercises from chapters 8-1
 
 ## Table of Contents
 
-- [Chapter 8: Tree-Based Methods](#chapter-8-tree-based-methods)
+- [Chapter 8: Tree-Based Methods](#chapter-8-tree-based-models)
 - [Chapter 9: Support Vector Machines](#chapter-9-support-vector-machines)
 - [Chapter 10: Deep Learning](#chapter-10-deep-learning)
 - [Chapter 11: Survival Analysis and Censored Data](#chapter-11-survival-analysis-and-censored-data)
